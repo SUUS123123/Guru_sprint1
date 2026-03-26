@@ -7,5 +7,6 @@ fun main() {
         counter--
     }
 
+
     println("Реклама закончилась!")
 }
